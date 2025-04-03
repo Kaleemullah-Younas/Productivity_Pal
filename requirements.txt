@@ -1,6 +1,6 @@
 gradio
 langchain-google-genai
-langchain-core
+langchain
 langchain-community
 python-dotenv
-google-api-core
+google-api-python-client
