@@ -241,7 +241,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="teal", secondary_hue="cyan"), t
             gr.Markdown("---")
             gr.Markdown("### 🍅 Pomodoro Timer")
             timer_display = gr.Label(f"{POMODORO_WORK_MINS:02d}:00", label="Time Left")
-            mode_display = gr.Label("Mode: Work | Pomodoros: 0", label="Status")
+            mode_display = gr.Label("Mode: Work Pomodoros: 0", label="Status")
             with gr.Row():
                 start_pause_button = gr.Button("Start", variant="primary", size="sm")
                 # Make reset initially interactive
