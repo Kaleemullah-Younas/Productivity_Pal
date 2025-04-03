@@ -1,14 +1,4 @@
----
-title: Productivity Pal
-colorFrom: teal
-colorTo: cyan
-sdk: gradio
-sdk_version: <your_gradio_version> # e.g., 4.31.0 (Check with pip show gradio)
-app_file: app.py
-pinned: false
----
-
-# 🚀 Productivity Pal ✨
+# PRODUCTIVITY PAL
 
 Your AI partner for task management, note-taking, motivation, and staying focused. Powered by Gemini and LangChain.
 
